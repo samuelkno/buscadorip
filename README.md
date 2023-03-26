@@ -1,6 +1,6 @@
 # Buscador de direcciones IP en bash
 
-![AppVeyor tests](https://img.shields.io/appveyor/tests/samuelkno/buscadorip)
+![AppVeyor tests](https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>)
 
 <h1 align="center"> Rastreador de Direcciones IP </h1>
 
